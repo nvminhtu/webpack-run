@@ -4,7 +4,7 @@ Là 1 cách để đóng gói thành các module bundler, nó tạo ra các modu
 * Sử dụng Webpack với HTML source/Phaser được không?
 
 ### Concepts
-[![N|Solid](https://cdn.scotch.io/1/OgOa3kqeStetJOfDqZyI_1HB2N57.png)]
+![N|Solid](https://cdn.scotch.io/1/OgOa3kqeStetJOfDqZyI_1HB2N57.png)
 
 ### Bắt đầu sử dụng
 ```
