@@ -71,7 +71,7 @@
 /***/ (function(module, exports) {
 
 document.write('welcome to my app');
-console.log('app loaded');
+console.log('app loaded already');
 
 
 /***/ })

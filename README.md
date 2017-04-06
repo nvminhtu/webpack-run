@@ -70,6 +70,15 @@ webpack-dev-server
 ```
 localhost:8080
 ```
+
+* Để xem log của Webpack có thể truy cập như sau để xem
+```
+http://localhost:8080/webpack-dev-server/
+```
+
+### Nguồn tham khảo
+* [Guide to Webpack] - bài viết ở medium rất chi tiết về cách sử dụng và các tính năng của webpack
+
 ### Editors
 
 * [Sublime Text] - Light weight editor and easy to code and hightlight your work.
@@ -83,23 +92,4 @@ localhost:8080
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [Webpack JS]: <https://webpack.js.org/>
-   [Atom]: <https://atom.io/>
-   [Freebies UI Kit]: <http://freebiesbug.com/psd-freebies/ui-kits/>
-   [Sketch App Resources]: <https://www.sketchappsources.com/category/ui.html>
-
-   [Kenney.nl]: <http://www.kenney.nl>
-   [OpenGameArt.org]: <http://www.OpenGameArt.org>
-   [Untamed.wild-refuge.net]: <http://www.Untamed.wild-refuge.net>
-   [Crateboy.itch.io]: <http://www.Crateboy.itch.io>
-   [Opengamegraphics.com]: <http://www.Opengamegraphics.com>
-   [Gameart2d.com]: <http://www.Gameart2d.com>
-   [Wigdetworx.com]: <http://www.Wigdetworx.com>
-   [GlitchtheGame.com]: <http://www.GlitchtheGame.com>
-   [Dumbanex.com]: <http://www.Dumbanex.com>
-   [Reinerstilesets.de]: <http://www.Reinerstilesets.de>
-   [Sharecg.com]: <http://www.Sharecg.com>
-   [Roenica.com]: <http://www.Roenica.com>
-   [Blogoscoped.com]: <http://www.Blogoscoped.com>
-   [Lostgarden.com]: <http://www.Lostgarden.com>
-   [Subtlepatterns.com]: <http://www.Subtlepatterns.com>
-   [Openclipart.org]: <http://www.Openclipart.org>
+   [Guide to Webpack]: <https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460>
