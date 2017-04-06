@@ -61,6 +61,15 @@ Từ command line, chúng ta cài đặt webpack-dev-server cho globally:
 npm install webpack-dev-server -g
 ```
 
+* Sau khi cài đặt server chúng ta có thể vào folder web app và chạy lệnh
+
+```
+webpack-dev-server
+```
+* Sau khi chạy có thể vào server với link sau, tùy port của chúng ta khi chạy thì có thể thay "8080" thành port tương ứng của bundle
+```
+localhost:8080
+```
 ### Editors
 
 * [Sublime Text] - Light weight editor and easy to code and hightlight your work.
