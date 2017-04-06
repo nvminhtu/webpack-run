@@ -1,10 +1,10 @@
 # WEBPACK
 * Webpack là gì? Tại sao phải sử dụng Webpack
+Là 1 cách để đóng gói thành các module bundler, nó tạo ra các modules với các dependencies và tạo ra các assets tĩnh đại diện cho các module này.
 * Sử dụng Webpack với HTML source/Phaser được không?
 
-
 ### Concepts
-*
+[![N|Solid](https://cdn.scotch.io/1/OgOa3kqeStetJOfDqZyI_1HB2N57.png)]
 
 ### Bắt đầu sử dụng
 ```
@@ -26,7 +26,7 @@ module.exports = {
   }
 }
 ```
-
+* entry: tạm hiểu như là 1 FILE khởi tạo và chạy các dò
 ### Fonts
 * [1001 Fonts]
 * [Dafonts]
