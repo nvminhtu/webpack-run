@@ -78,7 +78,7 @@ http://localhost:8080/webpack-dev-server/
 
 ### Nguồn tham khảo
 * [Guide to Webpack] - bài viết ở medium rất chi tiết về cách sử dụng và các tính năng của webpack
-
+* [Getting Started with Webpack Module Bundling] - bài viết ở Scotch.io cũng rất dễ hiểu
 ### Editors
 
 * [Sublime Text] - Light weight editor and easy to code and hightlight your work.
@@ -93,3 +93,4 @@ http://localhost:8080/webpack-dev-server/
 
    [Webpack JS]: <https://webpack.js.org/>
    [Guide to Webpack]: <https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460>
+   [Getting Started with Webpack Module Bundling]: <https://scotch.io/tutorials/getting-started-with-webpack-module-bundling-magic>
