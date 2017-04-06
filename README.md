@@ -76,6 +76,10 @@ localhost:8080
 http://localhost:8080/webpack-dev-server/
 ```
 
+### Tính năng nâng cao:
+* Có thể kết hợp với React.
+
+
 ### Nguồn tham khảo
 * [Guide to Webpack] - bài viết ở medium rất chi tiết về cách sử dụng và các tính năng của webpack
 * [Getting Started with Webpack Module Bundling] - bài viết ở Scotch.io cũng rất dễ hiểu
