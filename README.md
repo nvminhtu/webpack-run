@@ -38,11 +38,11 @@ Sau khi đã tạo file webpack.config.js chúng ta có thể sử dụng lệnh
 * ------- Watchmode -------
 Có tác dụng 'watch' các files và một khi các files thay đổi, nó lập tức build lại và tạo lại các các file output.
 * Có 2 cách để bật chế độ watchmode
-* 1. Sử dụng command line
+* Sử dụng command line
 ```
 webpack --watch
 ```
-* 2. Go vào file config, và thêm key gọi là watch và đặt là "true"
+* Go vào file config, và thêm key gọi là watch và đặt là "true"
 ```
 module.exports = {
   entry: "./app.js",
@@ -53,8 +53,10 @@ module.exports = {
 }
 ```
 * ------- Webpack Dev Server -------
+
 Webpack có 1 web server được gọi là webpack-dev-server
 Từ command line, chúng ta cài đặt webpack-dev-server cho globally:
+
 ```
 npm install webpack-dev-server -g
 ```
