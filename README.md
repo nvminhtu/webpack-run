@@ -1,6 +1,6 @@
 # WEBPACK
 * Webpack là gì? Tại sao phải sử dụng Webpack
-Là 1 cách để đóng gói thành các module bundler, nó tạo ra các modules với các dependencies và tạo ra các assets tĩnh đại diện cho các module này.
+Là 1 cách để đóng gói các module bundler đơn lẻ, nó tạo ra các modules với các dependencies và tạo ra các assets tĩnh đại diện cho các module này.
 * Sử dụng Webpack với HTML source/Phaser được không?
 
 ### Concepts
@@ -26,7 +26,14 @@ module.exports = {
   }
 }
 ```
-* entry: tạm hiểu như là 1 FILE khởi tạo và chạy các dò
+* entry: tạm hiểu như là 1 FILE khởi tạo đầu tiên (có thể là file đơn lẻ hoặc mảng các file) - mà chúng ta cần nhúng vào và build.
+* output: là 1 file file đối tượng chứa tất cả cấu hình output.
+* Chạy app
+```
+webpack
+```
+Sau khi đã tạo file webpack.config.js chúng ta có thể sử dụng lệnh webpack như trên.
+
 ### Fonts
 * [1001 Fonts]
 * [Dafonts]
